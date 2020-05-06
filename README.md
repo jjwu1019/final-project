@@ -1,5 +1,6 @@
 # Final-project
 Created by Jonathan Wu
+
 Predict the outcome of a league of legends diamond rank game using data from stats at 10 min mark into a game.
 
 # Context
