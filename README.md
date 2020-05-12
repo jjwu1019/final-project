@@ -9,4 +9,4 @@ League of Legends is a MOBA (multiplayer online battle arena) where 2 teams (blu
 # Links
 https://public.tableau.com/profile/jonathan.wu1468#!/vizhome/LeagueofLegendsAnalysisDiamondRankat10min/LeagueStory
 
-https://league-predict.herokuapp.com/predict
+https://league-predict.herokuapp.com/
